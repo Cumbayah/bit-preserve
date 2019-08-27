@@ -3,7 +3,7 @@
 This directory contains a KiCad project for the Commodore 64, schematic 251469, a.k.a. "C64B", with board revisions 250425-01 and 240441-01.
 
 This part of the [BitPreserve project](https://github.com/baldengineer/bit-preserve), initiated by [@baldengineer](https://github.com/baldengineer), was created by, and is maintained by, Cumbayah! (cumbayah@subetha.dk).
-Please coordinate updates or fixes to this schematic with him.
+Please coordinate updates or fixes to this schematic with him, through the [Commodore/C64/251469](https://github.com/Cumbayah/bit-preserve/tree/Commodore/C64/251469) branch in the fork at [Cumbayah/bit-preserve](https://github.com/Cumbayah/bit-preserve/tree/Commodore/C64/251469).
 
 ## Status
 Initial capture complete. The entire C64B schematic, including the RF modulator, is represented.
